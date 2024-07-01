@@ -1,16 +1,21 @@
-## Hi there 👋
+# 🌟 Tech Lead at Auchan - Leading the Electronic Payment Squad 🚀
+---
 
-<!--
-**rayandfz/rayandfz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hello, World!
 
-Here are some ideas to get you started:
+I am Rayan Desfossez, a passionate **Tech Lead at Auchan**, leading the incredible **Electronic Payment Squad**. Our mission is to innovate and enhance the electronic payment experience, ensuring secure, fast, and seamless transactions for millions of customers daily.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 What We Do:
+- **Payment Systems:** We design, develop, and implement cutting-edge payment solutions.
+- **Ensure Security:** We prioritize the safety and security of transactions, safeguarding user data.
+- **Enhance User Experience:** We continuously improve the payment process, making it faster and more user-friendly.
+
+---
+
+## 💼 Professional Skills:
+
+- **Languages:** Typescript
+- **Frameworks:** Vue.JS, NodeJS, NestJS, V8, Bun.io
+- **Tools:** Docker, Kubernetes, Terraform, Jenkins, Git
+- **Methodologies:** Agile, Scrum, DevOps, CraftManShip
+ 
